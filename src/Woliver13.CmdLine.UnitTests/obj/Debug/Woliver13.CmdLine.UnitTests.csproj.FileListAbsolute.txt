@@ -1,0 +1,10 @@
+C:\Users\Boliver\Documents\Visual Studio 2012\Projects\Woliver13.CmdLine\Woliver13.CmdLine.UnitTests\bin\Debug\Woliver13.CmdLine.UnitTests.dll
+C:\Users\Boliver\Documents\Visual Studio 2012\Projects\Woliver13.CmdLine\Woliver13.CmdLine.UnitTests\bin\Debug\Woliver13.CmdLine.UnitTests.pdb
+C:\Users\Boliver\Documents\Visual Studio 2012\Projects\Woliver13.CmdLine\Woliver13.CmdLine.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Boliver\Documents\Visual Studio 2012\Projects\Woliver13.CmdLine\Woliver13.CmdLine.UnitTests\bin\Debug\Should.dll
+C:\Users\Boliver\Documents\Visual Studio 2012\Projects\Woliver13.CmdLine\Woliver13.CmdLine.UnitTests\bin\Debug\Woliver13.CmdLine.dll
+C:\Users\Boliver\Documents\Visual Studio 2012\Projects\Woliver13.CmdLine\Woliver13.CmdLine.UnitTests\bin\Debug\Woliver13.CmdLine.pdb
+C:\Users\Boliver\Documents\Visual Studio 2012\Projects\Woliver13.CmdLine\Woliver13.CmdLine.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Boliver\Documents\Visual Studio 2012\Projects\Woliver13.CmdLine\Woliver13.CmdLine.UnitTests\obj\Debug\Woliver13.CmdLine.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Boliver\Documents\Visual Studio 2012\Projects\Woliver13.CmdLine\Woliver13.CmdLine.UnitTests\obj\Debug\Woliver13.CmdLine.UnitTests.dll
+C:\Users\Boliver\Documents\Visual Studio 2012\Projects\Woliver13.CmdLine\Woliver13.CmdLine.UnitTests\obj\Debug\Woliver13.CmdLine.UnitTests.pdb

@@ -1,0 +1,1 @@
+start .\src\Woliver13.CmdLine.sln

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Woliver13.CmdLine", "Woliver13.CmdLine\Woliver13.CmdLine.csproj", "{EA1DF1DC-19F3-4D9A-B519-2AF0C2D5B076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Woliver13.CmdLine.UnitTests", "Woliver13.CmdLine.UnitTests\Woliver13.CmdLine.UnitTests.csproj", "{18B67453-EA87-4AA5-9486-314DB318ED3C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{BA8B463A-FD7E-4157-A6BD-FFFC08B85A1D}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{C0186961-E58F-41BC-BC74-B08CC1EA3B4D}"
+	ProjectSection(SolutionItems) = preProject
+		..\build.bat = ..\build.bat
+		..\default.ps1 = ..\default.ps1
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA1DF1DC-19F3-4D9A-B519-2AF0C2D5B076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA1DF1DC-19F3-4D9A-B519-2AF0C2D5B076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA1DF1DC-19F3-4D9A-B519-2AF0C2D5B076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA1DF1DC-19F3-4D9A-B519-2AF0C2D5B076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B67453-EA87-4AA5-9486-314DB318ED3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B67453-EA87-4AA5-9486-314DB318ED3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B67453-EA87-4AA5-9486-314DB318ED3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B67453-EA87-4AA5-9486-314DB318ED3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

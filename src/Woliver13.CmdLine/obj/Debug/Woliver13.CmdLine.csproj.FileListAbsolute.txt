@@ -1,0 +1,5 @@
+C:\Users\Boliver\Documents\Visual Studio 2012\Projects\Woliver13.CmdLine\Woliver13.CmdLine\bin\Debug\Woliver13.CmdLine.dll
+C:\Users\Boliver\Documents\Visual Studio 2012\Projects\Woliver13.CmdLine\Woliver13.CmdLine\bin\Debug\Woliver13.CmdLine.pdb
+C:\Users\Boliver\Documents\Visual Studio 2012\Projects\Woliver13.CmdLine\Woliver13.CmdLine\obj\Debug\Woliver13.CmdLine.csprojResolveAssemblyReference.cache
+C:\Users\Boliver\Documents\Visual Studio 2012\Projects\Woliver13.CmdLine\Woliver13.CmdLine\obj\Debug\Woliver13.CmdLine.dll
+C:\Users\Boliver\Documents\Visual Studio 2012\Projects\Woliver13.CmdLine\Woliver13.CmdLine\obj\Debug\Woliver13.CmdLine.pdb
