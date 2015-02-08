@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata schemaVersion="2">
+    <id>Woliver13.CmdLine</id>
+    <version>0.1.0.0</version>
+    <title>Woliver13.CmdLine</title>
+    <authors>Bill Oliver</authors>
+    <owners>Bill Oliver</owners>
+    <licenseUrl>http://github.com/woliver13/Woliver13.CmdLine/license.txt</licenseUrl>
+    <projectUrl>http://github.com/woliver13/Woliver13.CmdLine</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Command line parser created with tests derived from the Java port of gnu getopt.</description>
+    <summary>Command line parser created with tests derived from the Java port of gnu getopt.</summary>
+    <tags>commandline,command,line,parser</tags>
+    <frameworkAssemblies>
+    </frameworkAssemblies>
+    <releaseNotes>
+      Full documentation can be found at http://github.com/woliver13/Woliver13.CmdLine
+    </releaseNotes>
+  </metadata>
+  <files>
+    <file src="..\build\package\Woliver13.CmdLine.dll" target="lib\40\Woliver13.CmdLine.dll" />
+  </files>
+</package>

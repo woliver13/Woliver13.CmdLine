@@ -7,13 +7,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Woliver13.CmdLine.UnitTests
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{BA8B463A-FD7E-4157-A6BD-FFFC08B85A1D}"
 	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
 		.nuget\packages.config = .nuget\packages.config
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{C0186961-E58F-41BC-BC74-B08CC1EA3B4D}"
 	ProjectSection(SolutionItems) = preProject
 		..\build.bat = ..\build.bat
+		..\build_and_package.bat = ..\build_and_package.bat
 		..\default.ps1 = ..\default.ps1
+		..\README.md = ..\README.md
+		..\nuget\Woliver13.CmdLine.nuspec = ..\nuget\Woliver13.CmdLine.nuspec
 	EndProjectSection
 EndProject
 Global
