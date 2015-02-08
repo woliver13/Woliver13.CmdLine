@@ -1,7 +1,7 @@
 The is yet another Command Line processor.
 
 Sample usage:
-
+```c#
 public static class Program
 {
 	public static int Main(string[] argv)
@@ -35,4 +35,4 @@ public static class Program
 		// TODO: do something with the options.
 	}
 }
-
+```
